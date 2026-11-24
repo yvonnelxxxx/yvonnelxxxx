@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=248&color=CF8AA6&center=true&vCenter=true&multiline=true&repeat=false&width=1400&height=140&lines=Hi!+I'm+Yvonne+%F0%9F%91%8B;%F0%9F%8E%93+I%E2%80%99m+a+Computer+Science+student+at+Boston+University" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=248&color=CF8AA6&center=true&vCenter=true&multiline=true&repeat=false&width=1400&height=140&widthSpeed=false&lines=Hi!+I'm+Yvonne+%F0%9F%91%8B;I%E2%80%99m+a+Computer+Science+student+at+Boston+University" width="80%"/>
 <br><br>
 <pre>
     🎓 CS+Stats @ BU • Security Research @ HKU
-    💻 C/C++ • Python • Go • Fuzzing • Memory safety
-    📖 Systems security • Distributed systems • Networks
+    💻 C/C++ • Java • Go • Fuzzing
+    📖 Systems security • Distributed systems
     🎮 Music • Games • Anime • Code • Art
 </pre>
 <br>
