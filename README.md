@@ -9,7 +9,7 @@
     🎮 Music • Games • Anime • Code • Art
 </pre>
 <br>
-<img src="https://raw.githubusercontent.com/yvonnelxxxx/yvonnelxxxx/master/assets/snoopy.png" height="80" />
+<img src="https://raw.githubusercontent.com/yvonnelxxxx/yvonnelxxxx/master/assets/snoopy.png" height="100" />
 <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/in/yvonne24)
