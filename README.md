@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/yvonnelxxxx/yvonnelxxxx/master/assets/snoopy.png" height="100" />
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/in/yvonne24)
+[![LinkedIn](https://img.shields.io/badge/linkedin-6C8EAD)](https://linkedin.com/in/yvonne24)
 [![GitHub](https://img.shields.io/badge/github-898989)](https://github.com/yvonnelxxxx)
-[![Email](https://img.shields.io/badge/email-EA4335)](mailto:yvonnelxxxx@gmail.com)
+[![Email](https://img.shields.io/badge/email-cf8aa6)](mailto:yvonnelxxxx@gmail.com)
 </div>
