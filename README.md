@@ -9,11 +9,10 @@
     🎮 Music • Games • Anime • Code • Art
 </pre>
 <br>
-<img src="https://raw.githubusercontent.com/yvonnelxxxx/yvonnelxxxx/master/assets/snoopy.png" height="40" />
+<img src="https://raw.githubusercontent.com/yvonnelxxxx/yvonnelxxxx/master/assets/snoopy.png" height="80" />
 <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/in/yvonne24)
 [![GitHub](https://img.shields.io/badge/github-898989)](https://github.com/yvonnelxxxx)
 [![Email](https://img.shields.io/badge/email-EA4335)](mailto:yvonnelxxxx@gmail.com)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
 </div>
